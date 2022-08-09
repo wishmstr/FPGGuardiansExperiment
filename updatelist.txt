@@ -2,8 +2,8 @@ FPGGuardiansExperiment	08-09-22
 plugins/FPGGuardiansExperiment/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/plugininfo.txt	464240
 plugins/FPGGuardiansExperiment/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/pluginpreferences.txt	311356
 plugins/FPGGuardiansExperiment/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/sets/carddata.txt	10956801
-plugins/FPGGuardiansExperiment/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/sets/Setimages/general/cardback.png	235830
-plugins/FPGGuardiansExperiment/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/sets/Setimages/general/spawned.png	235830
+plugins/FPGGuardiansExperiment/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/sets/setimages/general/cardback.png	235830
+plugins/FPGGuardiansExperiment/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/sets/setimages/general/spawned.png	235830
 plugins/FPGGuardiansExperiment/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/CardImageURLs1.txt	10720314
 plugins/FPGGuardiansExperiment/decks/Advanced_Richards_Pirates.dek	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/decks/Advanced_Richards_Pirates.dek	704200
 plugins/FPGGuardiansExperiment/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	https://raw.githubusercontent.com/wishmstr/FPGGuardiansExperiment/main/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	781174
