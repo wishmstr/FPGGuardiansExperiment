@@ -1,0 +1,9 @@
+RECENTDECK0:Guidebook_The_Deck.dek
+RECENTDECK1:Guidebook_Knights_and_Angels.dek
+RECENTDECK2:050622_Test_Deck_v1.dek
+RECENTDECK3:Guidebook_Rock_Paper_and_Scissors.dek
+RECENTDECK4:Basic_Giants_and_Fairies_Theme.dek
+RECENTDECK5:Popcorn.dek
+RECENTDECK6:Basic_Pirates_Theme.dek
+RECENTDECK7:Basic_Undead_Theme.dek
+RECENTDECK8:Basic_Knights_Theme.dek
